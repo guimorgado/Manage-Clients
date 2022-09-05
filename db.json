@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Iñigo Zuriaga",
+      "empresa": "NFT Iñigo",
+      "email": "inigozuri@gmail.com",
+      "telefono": "618187727",
+      "notas": "Iñigo tiene un problema con su empresa.",
+      "id": 1
+    }
+  ]
+}
